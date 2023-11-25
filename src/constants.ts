@@ -1,5 +1,5 @@
 export const DIMENSIONS = 6;
-export const SQUARE_DIMS = 50;
-export const CONNECT_DIST = 100;
-export const POINT_RADIUS = 20;
+export const SQUARE_DIMS = 100;
+export const CONNECT_DIST = 125;
+export const POINT_RADIUS = 10;
 export const DRAW = 0;
